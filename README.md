@@ -5,5 +5,5 @@ Samahan is a prototype web app developed using the MERN stack that aims to enhan
 Entry for the Mapua - WebMasters Guild Hackathon 2024
 
 Fellow groupmates:
-Serge Fronda,
-Steven Flogio
+- Serge Fronda,
+- Steven Flogio
